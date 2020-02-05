@@ -1,4 +1,4 @@
-# This is an upgraded version of the [DROO](https://github.com/revenol/DROO) algorithm, where the [memory.py](memory.py) is rewritten based on PyTorch.
+# This is an upgraded version of the [DROO](https://github.com/revenol/DROO) algorithm, where the [memory.py](memory.py) is rewritten based on **PyTorch**.
 
 The following description follows from [DROO](https://github.com/revenol/DROO)
 
