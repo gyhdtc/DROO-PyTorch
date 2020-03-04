@@ -2,6 +2,7 @@
 
 The following description follows from [DROO](https://github.com/revenol/DROO)
 
+## xmind文件是应用程序“xmind”才能打开的，绘画思维导图的专有文件。
 
 # DROO
 
